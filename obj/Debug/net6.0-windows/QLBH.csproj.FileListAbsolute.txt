@@ -1,0 +1,225 @@
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.exe
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.deps.json
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.runtimeconfig.json
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.pdb
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.AssemblyReference.cache
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.GenerateResource.cache
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.AssemblyInfoInputs.cache
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.AssemblyInfo.cs
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.CoreCompileInputs.cache
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.CopyComplete
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.dll
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\refint\QLBH.dll
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.pdb
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.genruntimeconfig.cache
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\ref\QLBH.dll
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.fMain.resources
+D:\LT Windows\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.dll.config
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.Properties.Resources.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fManageCustomer.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.exe
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.dll.config
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.deps.json
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.runtimeconfig.json
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.pdb
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.AssemblyReference.cache
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.fMain.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fManageCustomer.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.Properties.Resources.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.GenerateResource.cache
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.AssemblyInfoInputs.cache
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.AssemblyInfo.cs
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.CoreCompileInputs.cache
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.CopyComplete
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\refint\QLBH.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.pdb
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.genruntimeconfig.cache
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\ref\QLBH.dll
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fNewCustomer.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fEditCustomer.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fManageProduct.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fNewProduct.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fEditProduct.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fManageOrder.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fNewOrder.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fEditOrder.resources
+D:\Desktop\ĐH\Năm 3\HK1\Lập trình Windows\VS\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fProcessOrderDetails.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fEditCustomer.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fEditOrder.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fEditProduct.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fManageOrder.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fManageProduct.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fNewCustomer.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fNewOrder.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fNewProduct.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fProcessOrderDetails.resources
+D:\LT Windows\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.Employees.resources
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.exe
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.dll.config
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.deps.json
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.runtimeconfig.json
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\QLBH.pdb
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Download\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.AssemblyReference.cache
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.Employees.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fEditCustomer.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fEditOrder.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fEditProduct.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fLogin.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.fMain.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fManageCustomer.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fManageOrder.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fManageProduct.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fNewCustomer.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fNewOrder.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fNewProduct.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.fProcessOrderDetails.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.Properties.Resources.resources
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.GenerateResource.cache
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.AssemblyInfoInputs.cache
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.AssemblyInfo.cs
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.CoreCompileInputs.cache
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.csproj.CopyComplete
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.dll
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\QLBH.dll
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.pdb
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\QLBH.genruntimeconfig.cache
+D:\Download\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\QLBH.dll

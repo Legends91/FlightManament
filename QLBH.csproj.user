@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Employees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditChuyenBay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditOrderTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditSanBay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fEditTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fForget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManageCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManageChuyenBay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManageCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManageOrderTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManageOrderTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManageProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManageReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManageSanBay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fManageTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewChuyenBay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="fNewEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewOrderTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewSanBay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fNewTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fProcessOrderTicketDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fReportCategoryProductGroupByCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fReportChuyenBay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fReportEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fReportTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="QLBHDataSet_view_ChuyenBay.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="QLBH_View_Employee.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="QLBH_View_Ticket.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
