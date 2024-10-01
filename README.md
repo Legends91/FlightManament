@@ -1,4 +1,27 @@
-# FlightManament Demo
-![image](https://github.com/user-attachments/assets/e377a798-4a1c-4763-9edc-6dc9b69fc4b0)
-![image](https://github.com/user-attachments/assets/ce1ecbdf-eeb6-4aeb-bb3a-9c745be496e0)
-![image](https://github.com/user-attachments/assets/f74a39bc-5959-448e-a555-a03a39045852)
+# FlightManagement
+Database diagram của csdl QLMB:
+![image](https://github.com/user-attachments/assets/538c0092-4208-40b7-95a2-f00c1ff63c02)
+Các thiết kế form và kết quả hiển thị:
+![image](https://github.com/user-attachments/assets/15ca0b10-26f4-4988-9d5f-775e3289836c)
+![image](https://github.com/user-attachments/assets/90d0845d-f774-4d4b-89f4-34ad9a8afe87)
+![image](https://github.com/user-attachments/assets/0dbe2445-fffe-445a-a732-5b05b757c2e6)
+![image](https://github.com/user-attachments/assets/09c40fcb-f688-467a-965e-995fd57a2937)
+![image](https://github.com/user-attachments/assets/5456978a-253b-48a6-8ef8-12a26d9e5a22)
+![image](https://github.com/user-attachments/assets/cabbec5c-9565-413b-b3e2-5c9e66cf7402)
+![image](https://github.com/user-attachments/assets/49d65587-4be4-4336-bf0c-f81ef727521e)
+![image](https://github.com/user-attachments/assets/5b1b42da-6416-4770-8f6c-70a8b011ae59)
+![image](https://github.com/user-attachments/assets/17b4dc21-4599-4065-aec2-fe3612e3fa49)
+![image](https://github.com/user-attachments/assets/9413d9bb-9e69-49e8-9e18-d7beb9d36d85)
+![image](https://github.com/user-attachments/assets/5796c5a2-3a29-4ff9-a05a-885a535c8115)
+![image](https://github.com/user-attachments/assets/8674dd31-abd8-4004-913d-bacd1a021870)
+![image](https://github.com/user-attachments/assets/51ab3343-77ad-4c5e-9fdb-2c02fbd5c8c8)
+![image](https://github.com/user-attachments/assets/b54cb022-4a4f-4e29-98a1-61977f4ff677)
+![image](https://github.com/user-attachments/assets/0a41d0a9-d8e3-4865-8c61-776ce2615cf7)
+![image](https://github.com/user-attachments/assets/abbeeef2-ae20-4904-82c9-d8228bc039f9)
+![image](https://github.com/user-attachments/assets/27f10dae-d9e0-4bcd-92a9-ba103427b80c)
+
+![image](https://github.com/user-attachments/assets/e708a1fb-0cad-4c11-a6a2-3c5d4a42cafd)
+![image](https://github.com/user-attachments/assets/3eec6caa-a9a5-497c-994d-683e3b4b96b2)
+![image](https://github.com/user-attachments/assets/ae981663-86ce-42f6-81ae-39d0eb280e9a)
+![image](https://github.com/user-attachments/assets/786dc6c6-9c66-410f-b50b-8f5e4b96a075)
+![image](https://github.com/user-attachments/assets/055a6f39-41ba-426a-8ee4-7fa50b10704a)
